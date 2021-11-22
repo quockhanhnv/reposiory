@@ -1,5 +1,5 @@
 {
-    "name": "su-1294/base-repository-laravel",
+    "name": "su-1294/base-repository-laravel8",
     "description": "Base repository implementation for Laravel",
     "keywords": [
       "laravel",
@@ -11,8 +11,8 @@
     "license": "BSD-2-Clause",
     "authors": [
       {
-        "name": "Nguyen Huu Su",
-        "email": "huusu1996@gmail.com"
+        "name": "Nguyen Huu Su1",
+        "email": "huusu19961@gmail.com"
       }
     ],
     "require": {
